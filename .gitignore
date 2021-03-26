@@ -1,0 +1,5 @@
+db.sqlite3
+.vscode
+__pychache__/
+.DS_Store
+*.py[cod]
